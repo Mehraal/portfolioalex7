@@ -1,0 +1,10 @@
+.ProjImgContainer {
+    width: 400px;
+    overflow: hidden;
+    padding: 50px;
+    
+
+}
+.ProjImgContainer img {
+    max-width: 100%;
+}
